@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="100%"  src="https://wallpapercave.com/wp/wp1904056.jpg" >
+<img align="right" alt="Coding" width="100%" height="40%"  src="https://wallpapercave.com/wp/wp1904056.jpg" >
 <h1 align="center">Hi 👋, I'm Akhil kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg" >
+<img align="right" alt="Coding" width="500"  src="https://i.pinimg.com/originals/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilkumar2001&label=Profile%20views&color=0e75b6&style=flat" alt="akhilkumar2001" /> </p>
 
